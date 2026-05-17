@@ -1,0 +1,12 @@
+[project]
+name = "code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agentscope>=1.0.19.post1",
+    "mem0ai>=2.0.2",
+    "packaging>=26.2",
+    "websockets>=16.0",
+]
