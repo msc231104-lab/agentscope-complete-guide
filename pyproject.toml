@@ -6,7 +6,10 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "agentscope>=1.0.19.post1",
+    "fastapi>=0.136.1",
     "mem0ai>=2.0.2",
     "packaging>=26.2",
+    "scipy>=1.17.1",
+    "uvicorn[standard]>=0.46.0",
     "websockets>=16.0",
 ]
